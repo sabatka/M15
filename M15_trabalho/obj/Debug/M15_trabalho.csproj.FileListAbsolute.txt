@@ -1,0 +1,16 @@
+c:\users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\bin\Debug\M15_trabalho.exe.config
+c:\users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\bin\Debug\M15_trabalho.exe
+c:\users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\bin\Debug\M15_trabalho.pdb
+c:\users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.csprojResolveAssemblyReference.cache
+c:\users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.Properties.Resources.resources
+c:\users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.csproj.GenerateResource.Cache
+c:\users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.exe
+c:\users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.pdb
+C:\Users\gab_s\Documents\Visual Studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.Form1.resources
+C:\Users\gab_s\Documents\Visual Studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.fr_registar.resources
+C:\Users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.fr_stats.resources
+C:\Users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.fr_painel.resources
+C:\Users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.fr_map.resources
+C:\Users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\bin\Debug\BD_NWTR_M15_GPSI.mdf
+C:\Users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\bin\Debug\BD_NWTR_M15_GPSI_log.ldf
+C:\Users\gab_s\documents\visual studio 2015\Projects\M15_trabalho\M15_trabalho\obj\Debug\M15_trabalho.fr_addSave.resources
